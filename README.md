@@ -1,6 +1,6 @@
 # REVORA AI — Merchant Growth & Agentic Commerce Platform
 
-> **DOMAIN**: AI Growth & Agentic Commerce**  
+> **DOMAIN**: AI Growth & Agentic Commerce  
 > An autonomous, bounded AI revenue intelligence system that discovers merchant opportunities, applies RAG policy guardrails, enforces human-in-the-loop approval gating, and maintains a strict audit trail.
 
 ---
